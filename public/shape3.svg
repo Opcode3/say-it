@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="44.267624mm"
+   height="44.983925mm"
+   viewBox="0 0 44.267624 44.983925"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="bitmap.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.210526,-52.407332)">
+    <path
+       sodipodi:type="star"
+       style="fill:#f6edff;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:bevel"
+       id="path3"
+       inkscape:flatsided="false"
+       sodipodi:sides="4"
+       sodipodi:cx="21.943554"
+       sodipodi:cy="40.046986"
+       sodipodi:r1="28.402494"
+       sodipodi:r2="13.818041"
+       sodipodi:arg1="0.90705501"
+       sodipodi:arg2="1.9992934"
+       inkscape:rounded="0.2"
+       inkscape:randomized="0.024"
+       d="M 39.975869,62.58467 C 35.279095,64.495486 21.118702,53.251565 16.075657,52.811552 12.607457,52.508946 0.79367104,61.149134 -0.45322027,57.890418 -2.2663012,53.151981 8.9908831,38.719993 9.635482,33.667406 10.078785,30.192643 1.522641,18.383531 4.7783871,17.211343 9.5125053,15.506888 22.769786,27.301544 27.782048,27.825511 c 3.447031,0.360343 15.566911,-9.22346 16.738173,-5.9221 1.703109,4.800444 -9.600642,18.743474 -10.297998,23.702926 -0.479585,3.410712 8.98371,15.664228 5.753646,16.978333 z"
+       inkscape:transform-center-x="-0.11642784"
+       inkscape:transform-center-y="0.49709668"
+       transform="rotate(-11.105154,216.00799,-86.616366)"
+       inkscape:export-filename="path3.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
